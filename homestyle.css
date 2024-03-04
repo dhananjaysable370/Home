@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Satoshi";
+}
+.customefont {
+  font-size: 15px;
+  transition: 0.02s ease-in-out;
+}
+
+.customefont:hover {
+  color: blueviolet;
+}
+
+/* .backgroundcustome:hover {
+   height: 36px;
+  width: 130px;
+
+  padding: 0px 19px;
+  padding-top: 5px;
+  font-weight: 700;
+  color: black;
+  /* background-color: red; 
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  /* outline: none; 
+} */
+
+
+
+/* rounded-lg bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 */
+/* bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded */
